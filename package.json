@@ -1,0 +1,24 @@
+{
+  "name": "ramdom-str-eclesiastes",
+  "version": "1.0.0",
+  "description": "Ramdom versiculos del libro eclesiastes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vera2367/ramdom-str-eclesiastes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vera2367/ramdom-str-eclesiastes/issues"
+  },
+  "homepage": "https://github.com/vera2367/ramdom-str-eclesiastes#readme",
+  "bin": {
+    "ramdom-str-eclesiates": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
